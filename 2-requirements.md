@@ -1,4 +1,4 @@
-# Requirements Document: Raahé Tourist Navigation
+# Requirements Document: Raahé 
 
 ## Introduction
 
@@ -17,7 +17,7 @@ Raahé is a tourist navigation application optimized for Indian cities that addr
 - **Commute_Mode**: Same as Transport_Mode
 - **Route_Deviation**: When user's actual location diverges from planned route
 - **Transfer**: A change from one transport mode or vehicle to another during a journey
-- **Peak_Hour**: High traffic periods (8-11 AM, 5-9 PM)
+- **Peak_Hour**: High traffic periods 
 - **Walking_Threshold**: Maximum distance (800m) below which walking is always evaluated
 
 ## Requirements
@@ -265,3 +265,4 @@ Raahé is a tourist navigation application optimized for Indian cities that addr
 3. WHEN multiple Route_Options have similar balanced scores, THE System SHALL present all of them
 4. THE System SHALL explain what factors contributed to the balanced recommendation
 5. THE System SHALL not favor any single metric disproportionately in balanced mode
+
