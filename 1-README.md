@@ -68,6 +68,6 @@ Raahé emphasizes:
 
 - Sampurna | @SampurnaDatta 
 - Adrija | @Adrijaww
-- Spandan | @
+- Spandan | @Spadyyy
 
 
