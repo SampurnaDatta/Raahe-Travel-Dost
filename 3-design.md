@@ -1,4 +1,4 @@
-# Design Document: Raahé Tourist Navigation
+# Design Document: Raahé 
 
 ## Overview
 
@@ -1170,3 +1170,4 @@ test('walking included for destinations within 800m', () => {
 - Monitor test execution time and optimize slow tests
 - Track property test failure rates to identify flaky tests
 - Maintain test coverage above 80% for core components
+
