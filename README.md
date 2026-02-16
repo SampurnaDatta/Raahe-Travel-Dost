@@ -66,7 +66,7 @@ Raahé emphasizes:
 
 ## 👥 Team Tech Ninja
 
-- Sampurna | @SampurnaDatta 
+- Sampurna | @Samziii
 - Adrija | @Adrijaww
 - Spandan | @Spadyyy
 
